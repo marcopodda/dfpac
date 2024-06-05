@@ -51,16 +51,16 @@ data
     │       └── positive.parquet     # PA PSEs for benchmark
     └── lobo
         ├── test  # PSEs for candidate antigen selection
-│       │   ├── UP000000425.parquet  # N. meningitidis
-│       │   ├── UP000000586.parquet  # S. pneumoniae
-│       │   ├── UP000000625.parquet  # E. coli
-│       │   ├── UP000000750.parquet  # S. pyogenes
-│       │   ├── UP000000799.parquet  # C. jejuni
-│       │   ├── UP000000800.parquet  # C. muridarum
-│       │   ├── UP000001432.parquet  # A. pleuropneumoniae
-│       │   ├── UP000001584.parquet  # M. tuberculosis
-│       │   ├── UP000006386.parquet  # S. aureus
-│       │   └── UP000326807.parquet  # Y. pestis
+        │   ├── UP000000425.parquet  # N. meningitidis
+        │   ├── UP000000586.parquet  # S. pneumoniae
+        │   ├── UP000000625.parquet  # E. coli
+        │   ├── UP000000750.parquet  # S. pyogenes
+        │   ├── UP000000799.parquet  # C. jejuni
+        │   ├── UP000000800.parquet  # C. muridarum
+        │   ├── UP000001432.parquet  # A. pleuropneumoniae
+        │   ├── UP000001584.parquet  # M. tuberculosis
+        │   ├── UP000006386.parquet  # S. aureus
+        │   └── UP000326807.parquet  # Y. pestis
         └── training
             ├── negative.parquet     # non-PA PSEs for LOBO
             └── positive.parquet     # non-PA PSEs for LOBO
