@@ -1,0 +1,6 @@
+classifier: SVC
+classifier__estimator__C: 6.022461974916034
+classifier__estimator__gamma: 0.013531140782333594
+reducer: PCA
+reducer__n_components: float
+scaler: MinMaxScaler

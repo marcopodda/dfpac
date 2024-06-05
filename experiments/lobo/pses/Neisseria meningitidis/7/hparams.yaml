@@ -1,0 +1,6 @@
+classifier: MLPClassifier
+classifier__estimator__hidden_layer_sizes: list
+classifier__estimator__learning_rate_init: 0.0058012340587121815
+classifier__estimator__momentum: 0.914560581909285
+reducer: passthrough
+scaler: passthrough

@@ -1,0 +1,23 @@
+ID,Species,Antigen,PAProb
+A0A0H3W4K4,Actinobacillus pleuropneumoniae,True,0.966
+Q8KXD6,Actinobacillus pleuropneumoniae,True,0.907
+P55131,Actinobacillus pleuropneumoniae,True,0.907
+Q44132,Actinobacillus pleuropneumoniae,True,0.888
+O31239,Actinobacillus pleuropneumoniae,True,0.884
+A0A3G2M2Q3,Actinobacillus pleuropneumoniae,True,0.842
+A0A8A3PWP2,Actinobacillus pleuropneumoniae,True,0.841
+B3GZR6,Actinobacillus pleuropneumoniae,True,0.838
+B0BPZ8,Actinobacillus pleuropneumoniae,True,0.83
+B4XH93,Actinobacillus pleuropneumoniae,True,0.7
+B3GXV3,Actinobacillus pleuropneumoniae,True,0.68
+A0A828PL10,Actinobacillus pleuropneumoniae,False,0.674
+A0A3S4Y0G4,Actinobacillus pleuropneumoniae,False,0.641
+A0A8F5WSG3,Actinobacillus pleuropneumoniae,False,0.322
+A0A2D1BGV3,Actinobacillus pleuropneumoniae,False,0.315
+A0A828PQT9,Actinobacillus pleuropneumoniae,False,0.303
+A0A828PLU5,Actinobacillus pleuropneumoniae,False,0.291
+E0F5N8,Actinobacillus pleuropneumoniae,False,0.251
+A3MYI4,Actinobacillus pleuropneumoniae,False,0.238
+E0F7D9,Actinobacillus pleuropneumoniae,False,0.2
+Q6T894,Actinobacillus pleuropneumoniae,False,0.099
+E0F2I6,Actinobacillus pleuropneumoniae,False,0.069

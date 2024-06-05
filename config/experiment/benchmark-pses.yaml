@@ -1,0 +1,17 @@
+# @package _global_
+
+# specify here default training configuration
+defaults:
+  - _self_
+
+dataset:
+  _target_: dfpac.dataset.benchmark.BenchmarkPSEDataset
+
+pipeline_handler:
+  _target_: dfpac.evaluation.pipeline.PSEBenchmarkPipelineHandler
+
+hydra:
+  run:
+    dir: ./outputs/benchmark/pses/${seed}
+  job:
+    chdir: true

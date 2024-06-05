@@ -1,0 +1,7 @@
+classifier: SGDClassifier
+classifier__estimator__alpha: 0.041832563604487366
+classifier__estimator__eta0: 0.6637040549359249
+classifier__estimator__penalty: l2
+reducer: PCA
+reducer__n_components: float
+scaler: MinMaxScaler

@@ -1,0 +1,19 @@
+ID,Species,Antigen,PAProb
+A0A0H2YDX7,Yersinia pestis,True,0.881
+Q0WAT7,Yersinia pestis,True,0.873
+P26948,Yersinia pestis,True,0.872
+P31493,Yersinia pestis,True,0.87
+Q0WK05,Yersinia pestis,False,0.867
+O68691,Yersinia pestis,True,0.84
+A0A0E1NXV4,Yersinia pestis,False,0.705
+A0A5P8S0R2,Yersinia pestis,True,0.294
+A0A5K1URB1,Yersinia pestis,False,0.282
+P31491,Yersinia pestis,True,0.27
+A0A5P8RXL2,Yersinia pestis,False,0.27
+A0A5P8RVI1,Yersinia pestis,False,0.242
+A0A3G5L7I0,Yersinia pestis,False,0.209
+A0A5P8RVC1,Yersinia pestis,True,0.209
+A0A0K1H0L2,Yersinia pestis,False,0.193
+Q0WIJ4,Yersinia pestis,False,0.189
+A0A5P8S198,Yersinia pestis,False,0.177
+A0A3G5LCZ5,Yersinia pestis,False,0.153

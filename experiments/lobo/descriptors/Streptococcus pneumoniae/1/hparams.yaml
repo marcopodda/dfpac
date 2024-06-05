@@ -1,0 +1,6 @@
+classifier: SGDClassifier
+classifier__estimator__alpha: 0.05127714330735236
+classifier__estimator__eta0: 0.4620093672151204
+classifier__estimator__penalty: l2
+reducer: passthrough
+scaler: MinMaxScaler

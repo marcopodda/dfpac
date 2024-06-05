@@ -1,0 +1,22 @@
+# @package _global_
+
+# specify here default training configuration
+defaults:
+  - _self_
+  - experiment: ???
+  - override hydra/hydra_logging: disabled
+  - override hydra/job_logging: colorlog
+
+tuner:
+  _target_: sklearn.model_selection.RandomizedSearchCV
+  n_iter: 200
+  n_jobs: -4
+  verbose: 1
+  scoring: neg_log_loss
+  return_train_score: true
+
+hydra:
+  output_subdir: null
+
+workdir: ${hydra:runtime.cwd}
+seed: ???

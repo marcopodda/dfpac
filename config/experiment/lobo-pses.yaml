@@ -1,0 +1,22 @@
+# @package _global_
+
+# specify here default training configuration
+defaults:
+  - _self_
+
+dataset:
+  _target_: dfpac.dataset.lobo.LOBOPSEDataset
+  species: ???
+
+pipeline_handler:
+  _target_: dfpac.evaluation.pipeline.PSEPipelineHandler
+
+proteome:
+  _target_: dfpac.dataset.proteome.ProteomePSEDataset
+  species: ${dataset.species}
+
+hydra:
+  run:
+    dir: ./outputs/lobo/pse/${dataset.species}/${seed}
+  job:
+    chdir: true

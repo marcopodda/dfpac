@@ -1,0 +1,24 @@
+ID,Species,Antigen,PAProb
+Q2M5R2,Campylobacter jejuni,True,0.859
+P80672,Campylobacter jejuni,True,0.853
+A0A5T1SPE7,Campylobacter jejuni,True,0.842
+Q0P9X8,Campylobacter jejuni,True,0.753
+A5Y0P7,Campylobacter jejuni,True,0.73
+Q9X4B1,Campylobacter jejuni,True,0.717
+M9QUQ0,Campylobacter jejuni,True,0.69
+A0A5T0Z3C3,Campylobacter jejuni,False,0.685
+A0A8F4GVN2,Campylobacter jejuni,True,0.683
+A0A3K5DSK5,Campylobacter jejuni,True,0.664
+Q46121,Campylobacter jejuni,True,0.576
+A7H4J6,Campylobacter jejuni,False,0.468
+Q0PBW9,Campylobacter jejuni,True,0.45
+A0A7D6HX11,Campylobacter jejuni,False,0.321
+I6TSQ1,Campylobacter jejuni,True,0.314
+A0A3H9R6A4,Campylobacter jejuni,False,0.255
+A0A1Y2P7B7,Campylobacter jejuni,False,0.25
+A0A5T1P360,Campylobacter jejuni,False,0.242
+A0A381D4E1,Campylobacter jejuni,False,0.237
+A0A8D9QVW8,Campylobacter jejuni,False,0.218
+A0A5T1DZ81,Campylobacter jejuni,False,0.198
+A0A698FI25,Campylobacter jejuni,False,0.167
+A0A649PQW6,Campylobacter jejuni,False,0.161

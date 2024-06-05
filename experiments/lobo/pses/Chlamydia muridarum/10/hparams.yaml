@@ -1,0 +1,5 @@
+classifier: SVC
+classifier__estimator__C: 2.9765122369794628
+classifier__estimator__gamma: 0.07212010025068653
+reducer: passthrough
+scaler: passthrough

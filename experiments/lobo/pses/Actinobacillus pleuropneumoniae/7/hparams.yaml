@@ -1,0 +1,6 @@
+classifier: XGBClassifier
+classifier__estimator__learning_rate: 0.147535626523604
+classifier__estimator__max_depth: 4
+classifier__estimator__n_estimators: 72
+reducer: passthrough
+scaler: passthrough

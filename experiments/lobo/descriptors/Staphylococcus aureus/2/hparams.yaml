@@ -1,0 +1,7 @@
+classifier: MLPClassifier
+classifier__estimator__hidden_layer_sizes: list
+classifier__estimator__learning_rate_init: 0.0004369543779670096
+classifier__estimator__momentum: 0.9867222764618437
+reducer: PCA
+reducer__n_components: float
+scaler: MinMaxScaler
